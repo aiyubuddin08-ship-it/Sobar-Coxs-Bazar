@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for the Tourist Information Collection System in সবার কক্সবাজার (Sobar Cox's Bazar), detailing the Google Places / Search data integration, Cloudflare Worker backend proxy, hotel categorization, verified pricing & estimate flags, side-by-side comparison tool, and Google policy compliance with OpenStreetMap.",
+  "updatedAt":  "2026-10-20T13:49:46.025241682Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

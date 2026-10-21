@@ -1,0 +1,6 @@
+{
+  "name": "কক্সবাজার",
+  "description": "Discover Cox's Bazar - Complete Tourism and Travel Guide",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
